@@ -1,0 +1,17 @@
+bin/
+release/
+debug/
+build/
+__pycache__
+
+*.o
+*.obj
+*.exe
+*.app
+*.out
+*.dll
+*.so
+*.dylib
+
+.DS_Store
+.vscode
